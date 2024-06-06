@@ -1,0 +1,69 @@
+4
+BORN PINK
+Blackpink
+2022
+1
+image/blackpink.png
+8
+Hard to love
+tracks/hard_to_love.mp3
+Typa girl
+tracks/typa_girl.mp3
+The happiest girl
+tracks/the_happiest_girl.mp3
+Until I found you
+tracks/until_i_found_you.mp3
+If I ain't got you
+tracks/if.mp3
+Sure thing
+tracks/sure_thing.mp3
+Really
+tracks/really.mp3
+You & Me 
+tracks/you_me.mp3
+Dawn FM
+The Weeknd
+2021
+1
+image/theweeknd.png
+4
+Sacrifice
+tracks/sacrifice.mp3
+Out of Time
+tracks/out_of_time.mp3
+Is there someone else?
+tracks/is_there_someone_else.mp3
+Less than zero
+tracks/less_than_zero.mp3
+Happier Than Ever
+Billie Eilish
+2023
+3
+image/billie.png
+6
+Happier Than Ever
+tracks/happier_than_ever.mp3
+Therefore I Am
+tracks/therefore_i_am.mp3
+LUNCH
+tracks/lunch.mp3
+Chihiro
+tracks/chihiro.mp3
+Blue
+tracks/blue.mp3
+LAMOUR DE LA VIE
+tracks/la.mp3
+Kid Krow
+Conan Gray
+2020
+3
+image/conan.png
+4
+Maniac
+tracks/maniac.mp3
+Checkmate
+tracks/checkmate.mp3
+Heather
+tracks/heather.mp3
+Memories
+tracks/memories.mp3
