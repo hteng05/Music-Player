@@ -38,7 +38,7 @@ This music player simulates a fully interactive desktop audio application. It al
 
 Navigate by album, year, genre, or playlist:
 
-![Home Screen](images/image1.png)
+![Home Screen](image/image1.png)
 
 ---
 
@@ -46,7 +46,7 @@ Navigate by album, year, genre, or playlist:
 
 Displays each album with its metadata and cover art:
 
-![Album View](images/image2.png)
+![Album View](image/image2.png)
 
 ---
 
@@ -55,7 +55,7 @@ Displays each album with its metadata and cover art:
 The now-playing screen shows song details and tracklist.  
 **To add a song to the playlist, right-click the song title.**
 
-![Now Playing Screen](images/image3.png)
+![Now Playing Screen](image/image3.png)
 
 ---
 
@@ -63,7 +63,7 @@ The now-playing screen shows song details and tracklist.
 
 Play through your custom playlist with skip/back/play buttons:
 
-![Playlist Screen](images/image4.png)
+![Playlist Screen](image/image4.png)
 
 ---
 
@@ -116,7 +116,7 @@ Play through your custom playlist with skip/back/play buttons:
 
 ## Author
 
-**Duong Ha Tien Le**  
+**Duong Ha Tien Le (@hteng0)**  
 Swinburne University of Technology  
 Bachelor of Computer Science  
 Unit: COS10009 – Introduction to Programming (2024)
