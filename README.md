@@ -116,7 +116,7 @@ Play through your custom playlist with skip/back/play buttons:
 
 ## Author
 
-**Duong Ha Tien Le (@hteng0)**  
+**Duong Ha Tien Le (@hteng05)**  
 Swinburne University of Technology  
 Bachelor of Computer Science  
 Unit: COS10009 – Introduction to Programming (2024)
